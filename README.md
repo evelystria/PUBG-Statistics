@@ -1,4 +1,4 @@
-# PUBG-Statistics
+# PUBG-Statistics (Down due to API issues)
 > An unofficial, non-affiliated application to check player's statistics
 
 ## About
@@ -9,7 +9,6 @@ as well as other players' statistics, and generate a textfile for the stats.
 * Source codes will be released here once the app has been developed
 
 ## Progress
-- Application is currently in the works and at the design phase
-- Coding will as soon as the GUI is done
+- Completed, however will not be released until further testing
 
 Thanks to https://pubgtracker.com/ for the API, to make this ideation possible :)
